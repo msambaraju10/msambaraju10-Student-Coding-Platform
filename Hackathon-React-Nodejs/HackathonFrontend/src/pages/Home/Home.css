@@ -1,0 +1,13 @@
+.image-ratio {
+  aspect-ratio: 16 / 8;
+}
+
+.background-dark {
+  background-color: rgba(0, 0, 0, 0.65);
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.border-radius {
+  border-radius: 10px;
+}

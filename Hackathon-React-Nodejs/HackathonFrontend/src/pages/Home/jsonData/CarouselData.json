@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Power of Python",
+    "description": "Python is a versatile and high-level programming language known for its readability and simplicity, making it suitable for a wide range of applications, from web development to data science.",
+    "path": "https://wallpapercave.com/wp/wp8816374.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Role of Javascript in web development",
+    "description": "JavaScript plays a crucial role in web development by enabling client-side interactivity, dynamic content updates, and enhancing user experience on websites.",
+    "path": "https://wallpapercave.com/wp/wp11723452.jpg"
+  },
+  {
+    "id": 3,
+    "title": "ReactJs",
+    "description": "React.js is a declarative and efficient JavaScript library for building user interfaces, facilitating the creation of interactive and scalable front-end applications.",
+    "path": "https://wallpapercave.com/wp/wp4923981.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Java Legacy",
+    "description": "Java is a versatile, object-oriented programming language known for its platform independence, strong community support, and widespread use in building scalable and reliable software applications.",
+    "path": "https://wallpapercave.com/wp/wp7250161.png"
+  }
+]
